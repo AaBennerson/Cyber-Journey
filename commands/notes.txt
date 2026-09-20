@@ -1,0 +1,12 @@
+Cyber Journey -Linux notes
+September 19, 2026
+
+'pwd': show the current directory i am in.
+
+'ls': shows the files and folders inside the currrent directory.
+
+'cd': changes to a different dicrectory.
+'cd ..': goes up one level in the directory tree.
+
+'chmod': changes files permissions
+'chmod +x': makes the file executable.
