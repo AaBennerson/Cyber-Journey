@@ -4,4 +4,4 @@
 # ./hello.sh
 
 # Print "Hello, World!" to the console
-echo "Hello, World!"
+echo "Hello, Cyber Journey!"
