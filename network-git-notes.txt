@@ -1,0 +1,34 @@
+Git and network troubleshooting
+
+1.git status
+ used to check the current state of the git repo
+
+2. git push 
+sends committed changes from the computer to github
+
+3.ping -c 3 google.com
+tested whether the computer can reach google. The "-c" means count and 3 the number of ping attempets 
+
+4. ip a
+showed network interfaces and ip addresses
+
+5. No-Carrier / state down
+showed the wi-fi interfaces was not connected
+
+6. 169.254.x.x
+  Assigned address that showed the coputer did not receive a normal IP address from the network
+
+7. sudo dhclient enp0s31f6
+ requested a new ip address for ethernet connection
+
+8.github authentication
+Token is used instead of password over https.
+
+9.git pull --rebase origin main
+downloaded changes from github and placed our local work on top of it
+
+10.git push
+successfully uploaded our changes to github
+
+Lesson Learned :
+trobleshoot one layer at a time instead of assuming the application is broken
